@@ -1,0 +1,3 @@
+discord
+beautifulSoup4
+requests
